@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hudson Coutinho</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tavzera&show_icons=true&locale=pt-br" alt="tavzera" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tavzera&" alt="tavzera" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=tavzera&show_icons=true&locale=pt-br" alt="tavzera" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tavzera&" alt="tavzera" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tavzera&label=Profile%20views&color=0e75b6&style=flat" alt="tavzera" /> </p>
 
