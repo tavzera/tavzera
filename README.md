@@ -4,6 +4,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tavzera&" alt="tavzera" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tavzera&show_icons=true&locale=en&layout=compact" alt="tavzera" /></p>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tavzera&label=Profile%20views&color=0e75b6&style=flat" alt="tavzera" /> </p>
 
