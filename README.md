@@ -1,28 +1,3 @@
-<h1 align="center">Hi 👋, I'm Hudson Coutinho</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tavzera&label=Profile%20views&color=0e75b6&style=flat" alt="tavzera" /> </p>
-
-<p align="left"> <a href="https://twitter.com/tavzera" target="blank"><img src="https://img.shields.io/twitter/follow/tavzera?logo=twitter&style=for-the-badge" alt="tavzera" /></a> </p>
-
-- 🔭 I’m currently working on [Course Explorer 10](https://app.rocketseat.com.br/explorer)
-
-- 🌱 I’m currently learning **Course Explorer 10**
-
-- 👯 I’m looking to collaborate on [Backend Project](https://github.com/tavzera/)
-
-- 🤝 I’m looking for help with [Rocketseat Course](https://app.rocketseat.com.br/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/tavzera/](https://github.com/tavzera/)
-
-- 📝 I regularly write articles on [www.linkedin.com/in/tavzera](www.linkedin.com/in/tavzera)
-
-- 💬 Ask me about **Javascript, AngularJS, HTML, CSS3**
-
-- 📫 How to reach me **hudsonhtc@outlook.com.br**
-
-- 📄 Know about my experiences [www.linkedin.com/in/tavzera](www.linkedin.com/in/tavzera)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tavzera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tavzera" height="30" width="40" /></a>
